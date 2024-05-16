@@ -1,2 +1,7 @@
 ---
-controller_tamplates:
+controller_templates:
+- name: Hola_que
+  job_type: run
+  inventory: Demo Inventory
+  project: contenedor
+  playbook: hello_world.yml
