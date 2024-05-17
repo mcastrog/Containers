@@ -2,9 +2,10 @@
 controller_projects:
 - name: contenedor
   organization: Default
+  scm_branch: main
   scm_clean: 'no'
   scm_delete_on_update: 'no'
   scm_type: git
   scm_update_on_launch: 'yes'
-  scm_url: https://github.com/mcastrog/b.git
+  scm_url: "https://github.com/mcastrog/b.git"
   credential: b
