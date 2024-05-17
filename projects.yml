@@ -8,3 +8,5 @@ controller_projects:
   scm_type: git
   scm_update_on_launch: 'yes'
   scm_url: "https://github.com/mcastrog/b.git"
+  credential: "b"
+  controller_configuration_async_retries: "120"

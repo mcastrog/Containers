@@ -5,3 +5,4 @@ controller_templates:
   inventory: Demo Inventory
   project: contenedor
   playbook: hello_world.yml
+  controller_configuration_async_retries: "120"
