@@ -3,4 +3,4 @@
   tasks:
     - name: tarea de prueba
       debug:
-        msg: "adios"  
+        msg: "adios fghghfg"  
