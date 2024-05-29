@@ -1,0 +1,6 @@
+- name: proyecto
+  hosts: localhost
+  tasks:
+    - name: tarea de prueba
+      debug:
+        msg: "adios"  
